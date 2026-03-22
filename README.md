@@ -89,3 +89,5 @@ K-Medoids is useful when robustness to noise and interpretability are required.
 
 ## How to Run
 pip install numpy pandas matplotlib scikit-learn scikit-learn-extra
+jupyter notebook
+lab3.ipynb
