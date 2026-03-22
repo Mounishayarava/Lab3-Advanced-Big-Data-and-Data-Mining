@@ -39,11 +39,11 @@ The objective is to group data points into clusters and evaluate clustering qual
 ### 2. K-Means Clustering
 - Number of clusters (k) = 3
 
-**Evaluation Metrics:**
+Evaluation Metrics:
 - Silhouette Score
 - Adjusted Rand Index (ARI)
 
-**Observations:**
+Observations:
 - Well-separated clusters
 - Higher silhouette score
 - Strong alignment with actual labels
@@ -51,7 +51,7 @@ The objective is to group data points into clusters and evaluate clustering qual
 ### 3. K-Medoids Clustering
 - Number of clusters (k) = 3
 
-**Observations:**
+Observations:
 - More robust to outliers
 - Slightly lower performance than K-Means
 - Uses actual data points as cluster centers
